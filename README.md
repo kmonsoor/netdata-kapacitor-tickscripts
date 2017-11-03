@@ -1,22 +1,12 @@
-MIT License
+A collection of [TICKscripts](https://docs.influxdata.com/kapacitor/latest/tick/) to create alerts using InfluxData's [Kapacitor](https://www.influxdata.com/time-series-platform/kapacitor/), a real-time streaming data processing engine.
 
-Copyright (c) 2017 Khaled Monsoor
+Scripts are readily usable to create monitoring alert:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ * Processor usage, load-average
+ * Disk space availability
+ * System memory availability
+ * Network IO
+  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright (c) 2017 Khaled Monsoor, licensed under [MIT License](https://kmonsooor.mit-license.org/)
 
